@@ -1,5 +1,8 @@
 # game-dev
-A few small game development projects I've explored. If you wanna play one of the games, click on the image to start downloading it.
+A few small game development projects I've explored.
+
+> [!TIP]
+> *If you wanna play one of the games, click on the image to start downloading it.*
 
 # 01 - GameMaker
 ## Top Down RPG
