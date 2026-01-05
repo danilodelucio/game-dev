@@ -31,4 +31,4 @@ A few small game development projects I've explored.
 
 ### 🎮 Controls
 - `Left Mouse Button` — Move platform.
-- - `Esc` — Quit game.
+- `Esc` — Quit game.
