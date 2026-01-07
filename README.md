@@ -32,3 +32,12 @@ A few small game development projects I've explored.
 ### 🎮 Controls
 - `Left Mouse Button` — Move platform.
 - `Esc` — Quit game.
+
+## Crystal Cavern
+
+<img width="1898" height="1078" alt="image" src="https://github.com/user-attachments/assets/1899e4ab-97bb-4851-8e58-76b392cd73e8" />
+
+### 🎮 Controls
+- `W` `A` `S` `D` — Move the tank.
+- `R` - Restart game.
+- `Esc` — Quit game.
