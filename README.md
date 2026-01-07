@@ -6,7 +6,7 @@ A few small game development projects I've explored.
 
 # 01 - GameMaker
 ## Top Down RPG
-[<img width="1365" height="799" alt="image" src="https://github.com/user-attachments/assets/58ec17db-7013-4fac-be25-95c4121c28f0" />](https://github.com/danilodelucio/game-dev/releases/download/GameMaker/01_GameMaker_01_TopDownRPG.zip)
+[![gm01_v1_](https://github.com/user-attachments/assets/bad85887-9adc-46f2-ba11-174b774239f2)](https://github.com/danilodelucio/game-dev/releases/download/gm01-v1/01_GameMaker_01_TopDownRPG.zip)
 
 ### 🎮 Controls
 - `W` `A` `S` `D` — Move the character.
@@ -18,7 +18,7 @@ A few small game development projects I've explored.
 ---
 # 02 - Godot
 ## 2D Action-Adventure Game
-[<img width="1155" height="682" alt="image" src="https://github.com/user-attachments/assets/69464a76-9e9e-4c2f-b298-77b1fc659079" />](https://github.com/danilodelucio/game-dev/releases/download/Godot/01_2DActionAdventureGame.zip)
+[![godot01_v1_](https://github.com/user-attachments/assets/6cc0ec97-f069-4d57-9547-fa14708cad59)](https://github.com/danilodelucio/game-dev/releases/download/godot01-v1/01_2DActionAdventureGame.zip)
 
 ### 🎮 Controls
 - `W` `A` `S` `D` / `Arrow keys` — Move the character.
@@ -27,15 +27,16 @@ A few small game development projects I've explored.
 ---
 # 03 - Unreal
 ## Marble Run
-[<img width="2251" height="1201" alt="image" src="https://github.com/user-attachments/assets/06a2e574-39d6-4fd2-af95-fecc4254e164" />](https://github.com/danilodelucio/game-dev/releases/download/Unreal/01_MarbleRun.zip)
+[![unreal01_v1_](https://github.com/user-attachments/assets/2b67a318-1763-480c-8324-077d98ec9139)](https://github.com/danilodelucio/game-dev/releases/download/unreal01-v1/01_MarbleRun.zip)
+
 
 ### 🎮 Controls
 - `Left Mouse Button` — Move platform.
 - `Esc` — Quit game.
 
+---
 ## Crystal Cavern
-
-[<img width="1898" height="1078" alt="image" src="https://github.com/user-attachments/assets/1899e4ab-97bb-4851-8e58-76b392cd73e8" />](https://github.com/danilodelucio/game-dev/releases/download/CrystalCavern_v1/02_CrystalCavern.zip)
+[![unreal02_v1_](https://github.com/user-attachments/assets/76680303-908f-4356-8c4f-cb7436e2b2b7)](https://github.com/danilodelucio/game-dev/releases/download/unreal02-v1/02_CrystalCavern.zip)
 
 ### 🎮 Controls
 - `W` `A` `S` `D` — Move the tank.
