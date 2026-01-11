@@ -24,6 +24,13 @@ A few small game development projects I've explored.
 - `W` `A` `S` `D` / `Arrow keys` — Move the character.
 - `E` — Interact (open chests and attack).
 
+## Project Boost
+[![godot02_v1](https://github.com/user-attachments/assets/a6a91f02-c69c-4d23-ba11-7a208b861d16)](https://github.com/danilodelucio/game-dev/releases/download/godot02-v1/ProjectBoost_v1.zip)
+
+### 🎮 Controls
+- `W` `A` `S` `D` / `Arrow keys` — Move the rocket.
+- `Esc` — Quit game.
+
 ---
 # 03 - Unreal
 ## Marble Run
