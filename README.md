@@ -38,7 +38,7 @@ A few small game development projects I've explored.
 [<img width="640" height="360" alt="princess_dragon_slayer_v1" src="https://github.com/user-attachments/assets/872c75f7-a61e-4b2b-a5b4-4fce317666e5" />](https://github.com/danilodelucio/game-dev/releases/download/princess_dragon_slayer/Princess.Dragon.Slayer.v3.exe)
 
 ### 🎮 Controls
-- `W` `A` / `Arrow keys` — Move the character.
+- `A` `D` / `Arrow keys` — Move the character.
 - `Space` — Jump.
 
 ---
