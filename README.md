@@ -1,3 +1,6 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/danilodelucio/game-dev/total?style=for-the-badge)
+
+
 # game-dev
 A few small game development projects I've explored.
 
