@@ -34,6 +34,13 @@ A few small game development projects I've explored.
 - `W` `A` `S` `D` / `Arrow keys` — Move the rocket.
 - `Esc` — Quit game.
 
+## Princess Dragon Slayer
+<img width="640" height="360" alt="princess_dragon_slayer_v1" src="https://github.com/user-attachments/assets/872c75f7-a61e-4b2b-a5b4-4fce317666e5" />
+
+### 🎮 Controls
+- `W` `A` / `Arrow keys` — Move the character.
+- `Space` — Jump.
+
 ---
 # 03 - Unreal
 ## Marble Run
