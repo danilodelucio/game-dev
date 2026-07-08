@@ -2,7 +2,7 @@
 
 
 # game-dev
-A few small game development projects I've explored.
+A few small game development projects I've explored. All the assets were provided by the instructors.
 
 > [!TIP]
 > *If you wanna play one of the games, click on the image to start downloading it.*
@@ -40,6 +40,16 @@ A few small game development projects I've explored.
 ### 🎮 Controls
 - `A` `D` / `Arrow keys` — Move the character.
 - `Space` — Jump.
+
+## Escape Castle
+
+
+### 🎮 Controls
+- `W` `A` `S` `D` — Move character.
+- `Shift` — Sprint.
+- `Space` — Jump.
+- `E` — Interact.
+- `Esc` — Pause game.
 
 ---
 # 03 - Unreal
