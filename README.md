@@ -42,7 +42,7 @@ A few small game development projects I've explored. All the assets were provide
 - `Space` — Jump.
 
 ## Escape Castle
-<img width="640" height="360" alt="escape_castle_v1" src="https://github.com/user-attachments/assets/d1d55570-be6b-4bbc-8830-bf68a6c291b6" />
+[<img width="640" height="360" alt="escape_castle_v1" src="https://github.com/user-attachments/assets/d1d55570-be6b-4bbc-8830-bf68a6c291b6" />](https://github.com/danilodelucio/game-dev/releases/download/escape_castle/Escape.Castle.v3.zip)
 
 
 ### 🎮 Controls
